@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, Dash
 
-**Tools:** Git, Jupyter, Google Colab 
+**Tools:** Jupyter Notebook, Google Colab 
 
 
 ## 🏆 Verified Credentials & Certifications
