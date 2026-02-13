@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 | Category | Credential | Verification |
 | :--- | :--- | :--- |
-| **Academic** | MS in Data Science (In Progress) | [University Badge/Link](#) |
-| **Specialized** | [Name of Coursera Cert, e.g., Deep Learning] | [](#) |
+| **Academic** | MS in Data Science (In Progress) | [](#) |
+| **Specialized courses** | [IBM Data Visualization with Python] | [https://www.coursera.org/account/accomplishments/verify/N601JLLKIA2X](#) |[Google Data Analytics Professional Certificate] [https://www.coursera.org/account/accomplishments/specialization/RZEBLJ3ZZ4Q5]
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/ayeshanargis/) | [Email](nargis764@gmail.com)
