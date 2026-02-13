@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi I'm Ayesha 👋
 
 <!--
 **nargis764/nargis764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎓 MS in Data Science Candidate | Problem Solver
+
+### 🏆 Verified Credentials & Certifications
+
+| Category | Credential | Verification |
+| :--- | :--- | :--- |
+| **Academic** | MS in Data Science (In Progress) | [University Badge/Link](#) |
+| **Specialized** | [Name of Coursera Cert, e.g., Deep Learning] | [](#) |
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/ayeshanargis/) | [Email](nargis764@gmail.com)
