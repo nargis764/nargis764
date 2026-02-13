@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 | Category | Credential | Verification |
 | :--- | :--- | :--- |
-| **Academic** | MS in Data Science (In Progress) | [](#) |
 | **Specialized courses** | [Google Data Analytics Professional Certificate] | [https://www.coursera.org/account/accomplishments/specialization/RZEBLJ3ZZ4Q5]
 
 
