@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ## 🛠 Technical Skills
 
 **Languages:** Python, R, SQL 
+
 **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, Dash
+
 **Tools:** Git, Jupyter, Google Colab 
 
 
