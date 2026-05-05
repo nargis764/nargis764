@@ -2,6 +2,7 @@
 
 🎓 MS in Data Science candidate  
 📊 Aspiring Data Scientist | Exploratory Data Analysis | Statistical Modeling | Machine Learning
+
 📍 Open to Entry-Level Data Scientist / Data Analyst /ML roles  
 
 I specialize in building data-driven solutions using statistical modeling and machine learning. My background combines strong theoretical foundations with hands-on implementation of predictive models, clustering techniques, and advanced data analysis.
