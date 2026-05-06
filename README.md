@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **Languages:** Python, R, SQL 
 
-**Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, Dash
+**Data Analysis and Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, Dash, ggplot
 
 **Tools:** Jupyter Notebook, Google Colab 
 
