@@ -24,11 +24,20 @@ Here are some ideas to get you started:
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, R, SQL 
+### Programming Languages
+Python • R • SQL
 
-**Data Analysis and Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly, Dash, ggplot
+### Data Analysis & Machine Learning
+Pandas • NumPy • Scikit-learn • PyTorch
 
-**Tools:** Jupyter Notebook, Google Colab 
+### Databases
+PostgreSQL
+
+### Data Visualization
+Matplotlib • Seaborn • Tableau • ggplot2
+
+### Tools & Platforms
+Jupyter Notebook • Google Colab • Git • GitHub
 
 
 ## 🏆 Verified Credentials & Certifications
