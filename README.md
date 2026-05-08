@@ -49,4 +49,4 @@ Jupyter Notebook • Google Colab • Git • GitHub
 ⭐ Always open to collaborating on data-driven projects and solving real-world problems.
 
 ### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ayeshanargis/) | [Email](nargis764@gmail.com) | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nargis764) | [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ayesha.nargis/vizzes)
+[LinkedIn](https://www.linkedin.com/in/ayeshanargis/) | [Email](nargis764@gmail.com) | [[Kaggle](https://www.kaggle.com/nargis764) | [Tableau](https://public.tableau.com/app/profile/ayesha.nargis/vizzes)
