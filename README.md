@@ -1,6 +1,6 @@
 ## Hi I'm Ayesha 👋
 
-🎓 MS in Data Science candidate  
+🎓 MS in Data Science 
 📊 Data Scientist | Exploratory Data Analysis | Statistical Modeling | Machine Learning                                                           
 📍 Open to Entry-Level Data Scientist roles  
 
