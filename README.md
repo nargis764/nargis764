@@ -39,6 +39,11 @@ Matplotlib • Seaborn • Tableau • ggplot2
 ### Tools & Platforms
 Jupyter Notebook • Google Colab • Git • GitHub
 
+## Featured Projects
+
+### NYC Taxi SQL Analysis
+PostgreSQL • Window Functions • CTEs
+
 
 ## 🏆 Verified Credentials & Certifications
 
