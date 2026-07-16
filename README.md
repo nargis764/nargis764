@@ -1,7 +1,7 @@
 ## Hi I'm Ayesha 👋
 
 🎓 MS in Data Science 
-📊 Data Scientist | Exploratory Data Analysis | Statistical Modeling | Machine Learning                                                           
+📊 Data Scientist | Predictive Analytics | Statistical Modeling | Machine Learning                                                           
 📍 Open to Entry-Level Data Scientist roles  
 
 I specialize in building data-driven solutions using statistical modeling and machine learning. My background combines strong theoretical foundations with hands-on implementation of predictive models, supervised and unsupervised ML techniques, data exploration and visualization and advanced data analysis.
@@ -49,7 +49,9 @@ PostgreSQL • Window Functions • CTEs
 
 | Category | Credential | Verification |
 | :--- | :--- | :--- |
-| **Specialized courses** | Google Data Analytics Professional Certificate | [https://www.coursera.org/account/accomplishments/specialization/RZEBLJ3ZZ4Q5]
+| **Specialized courses** 
+| Google Advanced Analytics Professional Certificate | [https://www.coursera.org/account/accomplishments/professional-cert/RY9R1YB2BQ7H]
+| Google Data Analytics Professional Certificate | [https://www.coursera.org/account/accomplishments/specialization/RZEBLJ3ZZ4Q5]
 
 ⭐ Always open to collaborating on data-driven projects and solving real-world problems.
 
